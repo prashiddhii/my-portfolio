@@ -56,7 +56,7 @@ const Contact = () => {
           <div className="w-full max-w-md mx-auto">
             {isSent ? (
               <p className="text-green-400 text-center text-xl">
-                Thank you! Your message has been sent.
+                Your message has been sent successfully!
               </p>
             ) : (
               <form onSubmit={handleSubmit} className="flex flex-col gap-4">
