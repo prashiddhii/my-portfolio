@@ -39,7 +39,7 @@ const Contact = () => {
       className="min-h-screen bg-[#1A1A2E] flex flex-col items-center text-white relative py-12"
     >
       {/* Contact Heading */}
-      <h1 className="poppins mb-12 font-bold text-3xl">CONTACT</h1>
+      <h1 className="poppins mb-12 font-bold text-3xl">CONTACT -change-</h1>
 
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-2 items-center gap-8">
